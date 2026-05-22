@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fox Navigator</string>
+    <string name="app_description">Este aplicativo foi desenvolvido como um teste de utilização da ferramenta AI Studio Build. Ele possui um layout responsivo, uma linda imagem de fundo de raposa, e botões de navegação rápida para a web.</string>
+    <string name="btn_ai_studio">Google AI Studio</string>
+    <string name="btn_github">Repositório GitHub</string>
+    <string name="about_title">Sobre o Teste</string>
+    <string name="nav_home">Início</string>
+    <string name="nav_about">Sobre</string>
+</resources>

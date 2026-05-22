@@ -1,0 +1,6 @@
+{
+  "name": "Fox Navigator",
+  "description": "Aplicativo de teste para utilização da ferramenta AI Studio Build com imagem de fundo de raposa, navegação responsiva e links externos para Google AI Studio e GitHub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
